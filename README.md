@@ -1,3 +1,3 @@
 # landing_page
 
-## HTML and CSS Practice.
+## A HTML and CSS Practice.
